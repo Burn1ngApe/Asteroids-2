@@ -1,0 +1,19 @@
+{
+    "name": "Obstacles",
+    "rootNamespace": "",
+    "references": [
+        "GUID:bfcd800c7b99c77418f552035af8f20c",
+        "GUID:80b67609657ff4348936ef6a60c81b53",
+        "GUID:7604c059f241a6942bce8e7ce12af1be",
+        "GUID:f9077a00fb592354e8cbfa6f4818e949"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

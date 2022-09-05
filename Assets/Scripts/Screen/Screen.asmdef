@@ -1,0 +1,16 @@
+{
+    "name": "Screen",
+    "rootNamespace": "",
+    "references": [
+        "GUID:80b67609657ff4348936ef6a60c81b53"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
